@@ -1,0 +1,29 @@
+* {
+    background-color: aqua;
+    padding: 0;
+    margin: 0;
+}
+.Computadora {
+    color: rgb(233, 17, 17);
+    font-size: 80px;
+    font-family: 'Bebas Neue', cursive;
+    background-color: gold;
+    border-radius: 60px;
+    border: 40px solid
+
+}
+#Bienvenida {
+        color: indigo;
+
+}
+#img {
+    display: inline;
+    position: static;
+}
+#precio {
+    color: mediumblue;
+    font-size: 4em;
+    background-color: darkgreen; width: 380px; height: 87px;
+    border:red 8px solid;
+    border-radius: 10%;
+}
